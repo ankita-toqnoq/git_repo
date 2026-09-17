@@ -22,3 +22,5 @@ for i in range(10):
 
 
 print("hello toqnoq")    
+print("Git diff practice")
+print("Learning Git")
