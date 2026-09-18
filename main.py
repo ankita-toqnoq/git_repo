@@ -32,3 +32,7 @@ print("Learning Git")
 =======
 fibonacci(10)
 >>>>>>> bug-fix
+
+
+
+print("this is my main branch")
